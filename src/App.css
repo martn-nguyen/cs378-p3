@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+button {
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+button.active {
+  background-color: darkgray;
+}
